@@ -1,0 +1,2 @@
+# DjangoProject
+For Yandex Academy
