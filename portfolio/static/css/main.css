@@ -229,9 +229,10 @@ button, button:hover, button:focus, button:active
 /* ------ Host ------ */
 
 .author {
-    width: 150px;
-	padding-left: 200px;
-    background: url(../img/poka.jpg) no-repeat left center;
+    height: 500px;
+	padding-left: 48px;
+	color: red;
+    background: url(../img/toxa.jpg) no-repeat left center;
     padding-top: 25px;
     padding-bottom: 25px;
 }
